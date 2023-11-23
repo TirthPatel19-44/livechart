@@ -1,0 +1,25 @@
+[info] Full optimizing C:\Users\patel\IdeaProjects\livechart\target\scala-3.2.2\livechart-opt
+[debug] Linker: Compute reachability: 710140 us
+[debug] Linker: Assemble LinkedClasses: 119246 us
+[debug] Linker: Check IR: 294630 us
+[debug] Linker: 1257232 us
+[debug] Optimizer: Batch mode: true
+[debug] Optimizer: Incremental part: 476716 us
+[debug] Optimizer: Optimizing 625 methods.
+[debug] Optimizer: Optimizer part: 1098051 us
+[debug] Optimizer: 1643224 us
+[debug] Refiner: Compute reachability: 80927 us
+[debug] Refiner: Assemble LinkedClasses: 19680 us
+[debug] Refiner: 122326 us
+[debug] Module Splitter: Calculate Dependency Info: 35547 us
+[debug] Module Splitter: Analyze Modules: 234928 us
+[debug] Module Splitter: Assemble Modules: 71339 us
+[debug] Module Splitter: 370894 us
+[debug] Emitter: Generate Classes: 377142 us
+[debug] Emitter: Write trees: 168275 us
+[debug] Emitter: Class tree cache stats: reused: 0 -- invalidated: 33
+[debug] Emitter: Method tree cache stats: reused: 0 -- invalidated: 110
+[debug] Emitter: 623435 us
+[debug] BasicBackend: Write result: 196265 us
+[debug] BasicBackend: total top-level trees: 527; re-computed: 527
+[debug] BasicBackend: total modules: 4; re-written: 4

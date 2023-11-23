@@ -1,0 +1,8 @@
+{
+"version": 3,
+"file": "livechart.-Live-Chart.js",
+"mappings": ";;;AAWA,SAAAA,oCAAA,CAAA,IAAA;;6FAAA,YAAA;WAAA,CAAA;;UAAA,KAAA,GAAA,CAAA;8FAAA,iDAAA,CAAA,KAAA;;YAAA,CAAA;;;C;AAAA,SAAAA,oCAAA,0C;",
+"sources": ["file:///C:/Users/patel/IdeaProjects/livechart/src/main/scala/livechart/LiveChart.scala"],
+"names": ["main"],
+"lineCount": 16
+}
