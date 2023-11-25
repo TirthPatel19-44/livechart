@@ -1,12 +1,6 @@
 'use strict';
-import * as $i_$002fjavascript$002esvg from "/javascript.svg";
 import * as $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6 from "./internal-3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.js";
-function $p_Llivechart_LiveChart$package$__setCounter$1__Lorg_scalajs_dom_Element__sr_IntRef__I__V($thiz, element$1, counter$1, count) {
-  var ev$1 = count;
-  $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$n(counter$1).sr_IntRef__f_elem = ev$1;
-  element$1.innerHTML = ("count is " + $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$n(counter$1).sr_IntRef__f_elem)
-}
-export { $p_Llivechart_LiveChart$package$__setCounter$1__Lorg_scalajs_dom_Element__sr_IntRef__I__V as $p_Llivechart_LiveChart$package$__setCounter$1__Lorg_scalajs_dom_Element__sr_IntRef__I__V };
+import * as $j_livechart$002e$002dMain$0024 from "./livechart.-Main$.js";
 /** @constructor */
 function $c_Llivechart_LiveChart$package$() {
   /*<skip>*/
@@ -21,15 +15,20 @@ function $h_Llivechart_LiveChart$package$() {
 export { $h_Llivechart_LiveChart$package$ as $h_Llivechart_LiveChart$package$ };
 $h_Llivechart_LiveChart$package$.prototype = $c_Llivechart_LiveChart$package$.prototype;
 $c_Llivechart_LiveChart$package$.prototype.LiveChart__V = (function() {
-  document.querySelector("#app").innerHTML = (("\r\n    <div>\r\n      <a href=\"https://vitejs.dev\" target=\"_blank\">\r\n        <img src=\"/vite.svg\" class=\"logo\" alt=\"Vite logo\" />\r\n      </a>\r\n      <a href=\"https://developer.mozilla.org/en-US/docs/Web/JavaScript\" target=\"_blank\">\r\n        <img src=\"" + $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$as_T($i_$002fjavascript$002esvg.default)) + "\" class=\"logo vanilla\" alt=\"JavaScript logo\" />\r\n      </a>\r\n      <h1>Hello Scala.js!</h1>\r\n      <h1>Hello vite and Scala.js from Tirth</h1>\r\n      <h2> why are you?</h2>\r\n      <h2> who are you? </h2>\r\n      <h3> Why are you </h3>\r\n      <h3> hello ruju </h3>\r\n      <div class=\"card\">\r\n        <button id=\"counter\" type=\"button\"></button>\r\n      </div>\r\n      <p class=\"read-the-docs\">\r\n        Click on the Vite logo to learn more\r\n      </p>\r\n    </div>\r\n  ");
-  $m_Llivechart_LiveChart$package$().setupCounter__Lorg_scalajs_dom_Element__V(document.getElementById("counter"))
-});
-$c_Llivechart_LiveChart$package$.prototype.setupCounter__Lorg_scalajs_dom_Element__V = (function(element) {
-  var counter = new $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$c_sr_IntRef(0);
-  element.addEventListener("click", ((e) => {
-    $p_Llivechart_LiveChart$package$__setCounter$1__Lorg_scalajs_dom_Element__sr_IntRef__I__V(this, element, counter, ((1 + counter.sr_IntRef__f_elem) | 0))
+  var this$3 = $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$n($j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$m_Lcom_raquo_laminar_api_package$().Lcom_raquo_laminar_api_package$__f_L);
+  var container = new $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$c_sjsr_AnonFunction0((() => document.getElementById("app")));
+  var rootNode = new $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$c_sjsr_AnonFunction0((() => $j_livechart$002e$002dMain$0024.$m_Llivechart_Main$().appElement__Lcom_raquo_laminar_nodes_ReactiveElement()));
+  var arg1 = this$3.Lcom_raquo_laminar_api_package$$anon$1__f_documentEventProps;
+  var eventProp = $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$n(arg1).onDomContentLoaded__Lcom_raquo_laminar_keys_EventProp();
+  var p = $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$m_Lcom_raquo_laminar_keys_EventProcessor$().empty__Lcom_raquo_laminar_keys_EventProp__Z__Lcom_raquo_laminar_keys_EventProcessor(eventProp, false);
+  var this$7 = $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$n($j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$m_Lcom_raquo_airstream_web_DomEventStream$().apply__Lorg_scalajs_dom_EventTarget__T__Z__Lcom_raquo_airstream_core_EventStream(document, $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$n($j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$n(p).Lcom_raquo_laminar_keys_EventProcessor__f_eventProp).Lcom_raquo_laminar_keys_EventProp__f_name, $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$n(p).Lcom_raquo_laminar_keys_EventProcessor__f_shouldUseCapture));
+  var fn = $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$n(p).Lcom_raquo_laminar_keys_EventProcessor__f_processor;
+  var this$8 = new $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$c_Lcom_raquo_airstream_misc_CollectStream(this$7, fn);
+  var onNext = new $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$c_sjsr_AnonFunction1(((_$2) => {
+    new $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$c_Lcom_raquo_laminar_nodes_RootNode(container.apply__O(), $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$as_Lcom_raquo_laminar_nodes_ReactiveElement(rootNode.apply__O()))
   }));
-  $p_Llivechart_LiveChart$package$__setCounter$1__Lorg_scalajs_dom_Element__sr_IntRef__I__V(this, element, counter, 0)
+  var owner = this$3.unsafeWindowOwner__Lcom_raquo_laminar_api_Laminar$unsafeWindowOwner$();
+  $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$f_Lcom_raquo_airstream_core_BaseObservable__foreach__F1__Lcom_raquo_airstream_ownership_Owner__Lcom_raquo_airstream_ownership_Subscription(this$8, onNext, owner)
 });
 var $d_Llivechart_LiveChart$package$ = new $j_internal$002d3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.$TypeData().initClass({
   Llivechart_LiveChart$package$: 0

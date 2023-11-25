@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: C:\Users\patel\IdeaProjects\livechart\src\main\scala\livechart\LiveChart.scala:37:53 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m37 |[0m    counterButton(dom.document.getElementsByClassName([31m"card"[0m))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mtoo many arguments for [33mmethod[0m [35mcounterButton[0m in [33mobject[0m [35mMain[0m: (): com.raquo.laminar.api.L.Element[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
