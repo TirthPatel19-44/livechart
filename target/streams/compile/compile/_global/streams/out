@@ -1,5 +1,12 @@
-[0m[[0m[31merror[0m] [0m[0m[31m[31m-- Error: C:\Users\patel\IdeaProjects\livechart\src\main\scala\livechart\LiveChart.scala:37:53 [0m[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m37 |[0m    counterButton(dom.document.getElementsByClassName([31m"card"[0m))[0m
-[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^[0m[0m
-[0m[[0m[31merror[0m] [0m[0m[31m   |[0mtoo many arguments for [33mmethod[0m [35mcounterButton[0m in [33mobject[0m [35mMain[0m: (): com.raquo.laminar.api.L.Element[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E008] Not Found Error: C:\Users\patel\IdeaProjects\livechart\src\main\scala\livechart\LiveChart.scala:76:6 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m73 |[0m      td([0m
+[0m[[0m[31merror[0m] [0m[0m[31m74 |[0m        child.text <-- itemSignal.map([36mitem[0m => [31m"%.2f"[0m.format(item.fullPrice))[0m
+[0m[[0m[31merror[0m] [0m[0m[31m75 |[0m      )[0m
+[0m[[0m[31merror[0m] [0m[0m[31m76 |[0m      td(button([31m"🗑️"[0m, onClick --> (_ => removeDataItem(id)))),[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m      ^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mvalue td is not a member of com.raquo.laminar.nodes.ReactiveHtmlElement[org.scalajs.dom.HTMLTableCellElement[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m  ].[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mNote that `td` is treated as an infix operator in Scala 3.[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mIf you do not want that, insert a `;` or empty line in front[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0mor drop any spaces behind the operator.[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

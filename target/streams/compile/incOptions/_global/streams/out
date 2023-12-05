@@ -1,35 +1,53 @@
 [0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = C:\Users\patel\IdeaProjects\livechart\target\scala-3.2.2\classes.bak[0m
 [0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItem$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LiveChart$package.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Model.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LiveChart$package$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	LiveChart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItemID.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItem$.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LiveChart$package.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Model.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LiveChart$package$.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	LiveChart.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItemID.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItem.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItem$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LiveChart$package.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Model.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LiveChart$package$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	LiveChart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItemID.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItem$.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LiveChart$package.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Model.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LiveChart$package$.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	LiveChart.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItemID.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItem.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItem$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LiveChart$package.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Model.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LiveChart$package$.class[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.class[0m
-[0m[[0m[0mdebug[0m] [0m[0m	LiveChart.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItemID.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItem.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItem$.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LiveChart$package.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Model.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	LiveChart$package$.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0m	Main$.tasty[0m
-[0m[[0m[0mdebug[0m] [0m[0m	LiveChart.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItemID.tasty[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DataItem.tasty[0m
 [0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: C:\Users\patel\IdeaProjects\livechart\target\scala-3.2.2\classes.bak[0m

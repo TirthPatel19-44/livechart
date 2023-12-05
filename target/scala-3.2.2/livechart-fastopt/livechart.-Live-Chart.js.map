@@ -1,8 +1,0 @@
-{
-"version": 3,
-"file": "livechart.-Live-Chart.js",
-"mappings": ";;;AAWA,SAAAA,oCAAA,CAAA,IAAA;;6FAAA,YAAA;WAAA,CAAA;;UAAA,KAAA,GAAAC,wDAAA,CAAA,uCAAA,CAAA,CAAA;8FAAA,iDAAA,CAAA,KAAA;;YAAA,CAAA;;;C;AAAA,SAAAD,oCAAA,0C;",
-"sources": ["file:///C:/Users/patel/IdeaProjects/livechart/src/main/scala/livechart/LiveChart.scala"],
-"names": ["main", "internal-3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6"],
-"lineCount": 16
-}
